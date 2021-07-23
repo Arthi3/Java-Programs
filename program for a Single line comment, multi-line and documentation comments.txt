@@ -1,0 +1,39 @@
+public class HelloWorld{
+
+     
+public static void main(String []args)
+{
+         
+	//single line comment
+         
+	
+	/* Multi-line Comment
+         
+	Java is a high-level, class-based, 
+            
+	object-oriented programming language that is 
+            
+	designed to have as few implementation dependencies as possible. */
+        
+	/**  Documentation Comment
+        
+	* The HelloWorld program implements an application that
+        
+	* simply displays "Hello World!" to the standard output.
+        
+	*
+        
+	* @author  Zara Ali
+        
+	* @version 1.0
+        
+	* @since   2014-03-31 
+        
+	*/
+            
+        
+	System.out.println("Jala Technologies");
+     
+}
+
+}
