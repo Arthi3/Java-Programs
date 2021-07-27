@@ -1,0 +1,14 @@
+public class Main
+{
+    static void myName()
+    {
+	
+		System.out.println("My name is Arthi");
+	}
+	
+	public static void main(String[] args) 
+	{
+	   myName(); 
+	}
+}
+
